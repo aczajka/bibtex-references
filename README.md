@@ -4,4 +4,4 @@ A collection (with a hope to keep it growing and up-to-date) of bibtex entries u
 
 # Technicalities
 
-I am using {JabRef}[https://www.jabref.org] to maintain this file.
+I am using [JabRef](https://www.jabref.org) to maintain this file.
